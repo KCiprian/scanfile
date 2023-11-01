@@ -1,0 +1,17 @@
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\bin\Release\net6.0\ScanFile.exe
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\bin\Release\net6.0\ScanFile.deps.json
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\bin\Release\net6.0\ScanFile.runtimeconfig.json
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\bin\Release\net6.0\ScanFile.dll
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\bin\Release\net6.0\ScanFile.pdb
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.csproj.AssemblyReference.cache
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.AssemblyInfoInputs.cache
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.AssemblyInfo.cs
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.csproj.CoreCompileInputs.cache
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.csproj.CopyComplete
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.dll
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\refint\ScanFile.dll
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.pdb
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ScanFile.genruntimeconfig.cache
+C:\Users\uidj4057\source\repos\ScanFile\ScanFile\obj\Release\net6.0\ref\ScanFile.dll
